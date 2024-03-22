@@ -2,7 +2,9 @@
 
 
 <p align="left">
-🚀 Welcome to my GitHub profile! I'm Luís Serrador, a dynamic and highly motivated PhD holder with a passion for machine learning. 💡 With a solid background in this exciting field, I've honed my skills in conducting research and publishing findings in prestigious international journals.
+🚀 Welcome to my GitHub profile! I'm Luís Serrador, a dynamic and highly motivated PhD holder with a passion for machine learning.
+ 
+💡 With a solid background in this exciting field, I've honed my skills in conducting research and publishing findings in prestigious international journals.
 
 👨‍💻 As a seasoned freelance machine learning developer, I thrive on implementing cutting-edge solutions to tackle a wide range of challenges. My track record speaks for itself – I'm adept at delivering results that exceed expectations.
 
