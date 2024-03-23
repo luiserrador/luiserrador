@@ -15,12 +15,12 @@
 
 
 <h4 align="left">How to reach me:</h4>
- <p align="left"><a href = "mailto: luisppserrador@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/256px-Gmail_icon_%282020%29.svg.png" width="25" alt="Gmail icon (2020)" onclick="return false;"></a>
+ <p align="left"><a href = "mailto: luisppserrador@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/256px-Gmail_icon_%282020%29.svg.png" width="20" alt="Gmail icon (2020)" onclick="return false;"></a>
    <a href = "mailto: luisppserrador@gmail.com">luisppserrador@gmail.com</a>
  </p>
  <p align="left">
  <a href="https://linkedin.com/in/luiserrador" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiserrador" width="25" height="20" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiserrador" width="20" height="20" />
   </a>
    <a href = "https://linkedin.com/in/luiserrador">linkedin.com/luiserrador</a>
 </p>
