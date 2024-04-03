@@ -2,15 +2,23 @@
 
 
 <p align="left">
-🚀 Welcome to my GitHub profile! I'm Luís Serrador, a dynamic and highly motivated PhD holder with a passion for machine learning.
+🚀 Welcome to my profile! I'm Luís Serrador, a dynamic and highly motivated PhD candidate (waiting for viva) with a passion for machine learning.
  
 💡 With a solid background in this exciting field, I've honed my skills in conducting research and publishing findings in prestigious international journals.
 
-👨‍💻 As a seasoned freelance machine learning developer, I thrive on implementing cutting-edge solutions to tackle a wide range of challenges. My track record speaks for itself – I'm adept at delivering results that exceed expectations.
+👨‍💻 As a seasoned freelance machine learning developer, I thrive on implementing cutting-edge solutions to tackle a wide range of challenges (from computer vision to NLP). My track record speaks for itself – I'm adept at delivering results that exceed expectations.
 
 📚 Always eager to learn and grow, I'm committed to continuous self-study and actively participate in relevant courses to stay updated with the latest advancements in machine learning.
 
-🌟 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn. 
+💼 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn.
+
+⚙️ Technical skills:
+Machine Learning: Tensorflow, PyTorch, SciPy, scikit-learn, scikit-image, OpenCV
+NLP: HuggingFace (transformers, datasets), LangChain, spaCy, NLTK, ChromaDB
+Data visualization: matplotlib, seaborn
+Model testing: pytest, tox
+MLOps: MLFlow, Evidently, CircleCI, FastAPI, git, GitHub Actions, Docker
+Cloud: AWS (Sagemaker, S3, EC2, ECR, Lambda, API Gateway)
 </p>
 
 
