@@ -12,12 +12,17 @@
 
 💼 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn.
 
-⚙️ Technical skills:
+⚙️ Technical skills:<br>
 Machine Learning: Tensorflow, PyTorch, SciPy, scikit-learn, scikit-image, OpenCV
+<br>
 NLP: HuggingFace (transformers, datasets), LangChain, spaCy, NLTK, ChromaDB
+<br>
 Data visualization: matplotlib, seaborn
+<br>
 Model testing: pytest, tox
+<br>
 MLOps: MLFlow, Evidently, CircleCI, FastAPI, git, GitHub Actions, Docker
+<br>
 Cloud: AWS (Sagemaker, S3, EC2, ECR, Lambda, API Gateway)
 </p>
 
