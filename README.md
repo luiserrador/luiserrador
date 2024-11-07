@@ -9,8 +9,9 @@
 👨‍💻 As a seasoned freelance machine learning developer, I thrive on implementing cutting-edge solutions to tackle a wide range of challenges (from computer vision to NLP). My track record speaks for itself – I'm adept at delivering results that exceed expectations.
 
 📚 Always eager to learn and grow, I'm committed to continuous self-study and actively participate in relevant courses to stay updated with the latest advancements in machine learning.
-
+<!--
 💼 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn.
+-->
 
 ⚙️ Technical skills:<br>
 Machine Learning: Tensorflow, PyTorch, SciPy, scikit-learn, scikit-image, OpenCV
