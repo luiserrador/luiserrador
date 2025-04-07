@@ -2,13 +2,18 @@
 
 
 <p align="left">
-🚀 Welcome to my profile! I'm Luís Serrador, a dynamic and highly motivated PhD candidate (waiting for viva) with a passion for machine learning.
- 
-💡 With a solid background in this exciting field, I've honed my skills in conducting research and publishing findings in prestigious international journals.
+🚀 Welcome to my profile! I'm Luís Serrador, a Computer Vision Engineer with over 5 years of experience in research and development (R&D), specializing in AI-powered vision systems. My work bridges cutting-edge research and real-world applications, focusing on 3D scene analysis, image segmentation, object detection, and model optimization for scalable deployment.
 
-👨‍💻 As a seasoned freelance machine learning developer, I thrive on implementing cutting-edge solutions to tackle a wide range of challenges (from computer vision to NLP). My track record speaks for itself – I'm adept at delivering results that exceed expectations.
+💡 I have a strong research background, with multiple publications in international journals, where I have developed novel deep learning techniques for medical imaging and computer vision. At the same time, I have successfully deployed AI solutions in production environments, optimizing performance for real-time and cloud-based applications. My expertise lies in taking theoretical advancements from research and transforming them into practical, high-impact solutions used in industry.
 
-📚 Always eager to learn and grow, I'm committed to continuous self-study and actively participate in relevant courses to stay updated with the latest advancements in machine learning.
+👨‍💻 My work focuses on:
+✅ Computer Vision & 3D Scene Analysis – Image segmentation, object detection, depth estimation, and point cloud processing
+✅ Machine Learning & AI R&D – Model development, optimization, and knowledge distillation for efficiency
+✅ Edge AI & Deployment – NVIDIA Jetson, TensorRT, GPU acceleration, Dockerized pipelines
+✅ MLOps & Cloud Infrastructure – GCP, AWS (SageMaker, EC2, Lambda), GitHub Actions, FastAPI
+✅ Data Processing & Annotation – OpenCV, scikit-image, Albumentations, Point Cloud Library (PCL)
+
+📚 I thrive on innovation, continuously learning, and transforming research into scalable AI solutions that drive real-world impact.
 <!--
 💼 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn.
 -->
