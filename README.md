@@ -6,18 +6,22 @@
 
 💡 I have a strong research background, with multiple publications in international journals, where I have developed novel deep learning techniques for medical imaging and computer vision. At the same time, I have successfully deployed AI solutions in production environments, optimizing performance for real-time and cloud-based applications. My expertise lies in taking theoretical advancements from research and transforming them into practical, high-impact solutions used in industry.
 
-👨‍💻 My work focuses on:
+👨‍💻 My work focuses on:<br>
 ✅ Computer Vision & 3D Scene Analysis – Image segmentation, object detection, depth estimation, and point cloud processing
+<br>
 ✅ Machine Learning & AI R&D – Model development, optimization, and knowledge distillation for efficiency
+<br>
 ✅ Edge AI & Deployment – NVIDIA Jetson, TensorRT, GPU acceleration, Dockerized pipelines
+<br>
 ✅ MLOps & Cloud Infrastructure – GCP, AWS (SageMaker, EC2, Lambda), GitHub Actions, FastAPI
+<br>
 ✅ Data Processing & Annotation – OpenCV, scikit-image, Albumentations, Point Cloud Library (PCL)
 
 📚 I thrive on innovation, continuously learning, and transforming research into scalable AI solutions that drive real-world impact.
 <!--
 💼 I'm on the lookout for opportunities to contribute to innovative projects where I can leverage my expertise in machine learning to make a meaningful impact. Let's collaborate and create something amazing together! Feel free to reach out and connect with me on LinkedIn.
 -->
-
+<!--
 ⚙️ Technical skills:<br>
 Machine Learning: Tensorflow, PyTorch, SciPy, scikit-learn, scikit-image, OpenCV
 <br>
@@ -30,6 +34,7 @@ Model testing: pytest, tox
 MLOps: MLFlow, Evidently, CircleCI, FastAPI, git, GitHub Actions, Docker
 <br>
 Cloud: AWS (Sagemaker, S3, EC2, ECR, Lambda, API Gateway)
+-->
 </p>
 
 
